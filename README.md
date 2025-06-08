@@ -1,4 +1,4 @@
-# 🕹️ Nome do Jogo
+# 🕹️ Patrick Run
 
 Um jogo feito com **Unity** e **C#**.  
 Este projeto foi desenvolvido como um pequeno teste do unity.
@@ -27,7 +27,7 @@ mais tempo você fica vivo, mais pontos você acumula
 - ✅ Sistema de vidas / pontuação
 - ✅ Interface de menu (start, game over)
 - ✅ Transições de cena 
-- ✅ Suporte a TouchScreen
-
+- ✅ Suporte a controles por toque
+  
 ---
 
